@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0069-sqrtx) |
 | [0098-validate-binary-search-tree](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0287-find-the-duplicate-number](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0287-find-the-duplicate-number) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0069-sqrtx) |
 | [0412-fizz-buzz](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Recursion
@@ -194,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0543-diameter-of-binary-tree) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
