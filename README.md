@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Binary Tree
 |  |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Stack
 |  |
 | ------- |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0303-range-sum-query-immutable) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -205,4 +209,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0069-sqrtx) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0703-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
