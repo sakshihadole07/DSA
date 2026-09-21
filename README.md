@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0069-sqrtx) |
 | [0098-validate-binary-search-tree](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0098-validate-binary-search-tree) |
 | [0162-find-peak-element](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0162-find-peak-element) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0014-longest-common-prefix) |
 | [0136-single-number](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0162-find-peak-element) |
@@ -217,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0703-kth-largest-element-in-a-stream) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
