@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0206-reverse-linked-list) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0160-intersection-of-two-linked-lists) |
+| [0206-reverse-linked-list](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0206-reverse-linked-list) |
 ## Breadth-First Search
 |  |
 | ------- |
