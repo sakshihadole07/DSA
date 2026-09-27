@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1672-richest-customer-wealth](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/1920-build-array-from-permutation) |
+| [2073-time-needed-to-buy-tickets](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/2073-time-needed-to-buy-tickets) |
 ## Hash Table
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0933-number-of-recent-calls) |
+| [2073-time-needed-to-buy-tickets](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/2073-time-needed-to-buy-tickets) |
 ## Counting
 |  |
 | ------- |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/1920-build-array-from-permutation) |
+| [2073-time-needed-to-buy-tickets](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/2073-time-needed-to-buy-tickets) |
 ## Design
 |  |
 | ------- |
