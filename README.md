@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0014-longest-common-prefix) |
+| [0064-minimum-path-sum](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0064-minimum-path-sum) |
 | [0136-single-number](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0162-find-peak-element) |
 | [0283-move-zeroes](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0283-move-zeroes) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0064-minimum-path-sum) |
 | [1672-richest-customer-wealth](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/1672-richest-customer-wealth) |
 ## Linked List
 |  |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0509-fibonacci-number) |
 ## Memoization
