@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/1920-build-array-from-permutation) |
 | [2073-time-needed-to-buy-tickets](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/2073-time-needed-to-buy-tickets) |
+| [3875-construct-uniform-parity-array-i](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3875-construct-uniform-parity-array-i](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
 | ------- |
