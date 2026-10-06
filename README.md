@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2396-strictly-palindromic-number](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/2396-strictly-palindromic-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0349-intersection-of-two-arrays) |
+| [2396-strictly-palindromic-number](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/2396-strictly-palindromic-number) |
 ## Sorting
 |  |
 | ------- |
@@ -275,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/1143-longest-common-subsequence) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
