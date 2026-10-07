@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2396-strictly-palindromic-number](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/2396-strictly-palindromic-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/3875-construct-uniform-parity-array-i) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/1025-divisor-game) |
 | [1143-longest-common-subsequence](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/1143-longest-common-subsequence) |
 ## Memoization
 |  |
@@ -280,5 +282,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [1025-divisor-game](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/1025-divisor-game) |
 | [2396-strictly-palindromic-number](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/2396-strictly-palindromic-number) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
