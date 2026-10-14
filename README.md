@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/1672-richest-customer-wealth) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/1920-build-array-from-permutation) |
 | [2073-time-needed-to-buy-tickets](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/2073-time-needed-to-buy-tickets) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/3875-construct-uniform-parity-array-i) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2396-strictly-palindromic-number](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/2396-strictly-palindromic-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
