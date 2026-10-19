@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0015-3sum) |
 | [0064-minimum-path-sum](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0064-minimum-path-sum) |
 | [0136-single-number](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0162-find-peak-element) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0015-3sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0283-move-zeroes) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
