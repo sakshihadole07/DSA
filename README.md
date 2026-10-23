@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0387-first-unique-character-in-a-string) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0015-3sum) |
+| [0125-valid-palindrome](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/sakshihadole07/Binary-Search-Tree/tree/master/0283-move-zeroes) |
